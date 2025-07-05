@@ -1,0 +1,1 @@
+{"seed": 42, "num_examples": 2, "batch_size": 1, "captions": [[["An elephant in the back of a truck."], ["A truck parked in a library with a glass trailer."]], [["A person doing a trick on a skateboard."], ["A person riding a skateboard on a wall."]]], "scores": {"meteor": [[0.7853703279064436, 0.21978021978021975], [0.47908863920099876, 0.43509070294784574]]}}

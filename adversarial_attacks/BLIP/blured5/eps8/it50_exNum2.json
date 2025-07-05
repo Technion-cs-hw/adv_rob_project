@@ -1,0 +1,1 @@
+{"seed": 42, "num_examples": 2, "batch_size": 1, "captions": [[[" a man is standing in front of a truck "], [" a man is standing in the back of a truck "]], [[" a person riding a skate ##board on a sidewalk "], [" a person is doing a trick on a skate ##board "]]], "scores": {"meteor": [[0.41666666666666663, 0.6578144078144077], [0.5679012345679012, 0.5270239964117516]]}}
