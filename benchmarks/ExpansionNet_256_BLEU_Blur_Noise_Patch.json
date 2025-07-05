@@ -1,0 +1,1 @@
+{"seed": 42, "corruption_types": ["id", "blur", "noise", "patch", "grayscale"], "scores": {"id": 0.2991577386856079, "blur": 0.2794354259967804, "normal noise": 0.2455306053161621, "uniform noise": 0.2638457417488098, "laplace noise": 0.2482604831457138, "patch": 0.2913358509540558}}
