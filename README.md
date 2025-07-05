@@ -15,8 +15,6 @@ This project benchmarks state-of-the-art image captioning models and analyzes th
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 .
 ├── adversarial_attacks/        # adversarial attack results
