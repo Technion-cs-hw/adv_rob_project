@@ -1,4 +1,4 @@
-# Robust Image Captioning under Adversarial Attacks
+# Adversarial Robustness of Transformer-Based Image Captioning Models
 
 This project benchmarks state-of-the-art image captioning models and analyzes their robustness against adversarial attacks. We explore how well models such as BLIP and ExpansionNet handle both natural and adversarial perturbations, and propose two defense mechanisms: **Gaussian blur** and a **caption confidence metric**. The project also includes a classification-based sanity check and a human evaluation study.
 
