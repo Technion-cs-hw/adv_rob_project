@@ -32,10 +32,10 @@ This project benchmarks state-of-the-art image captioning models and analyzes th
 │   ├── __init__.py
 │   └── __pycache__/
 ├── Blip_Benchmark.ipynb          # BLIP model benchmarking notebook
+├── Blip_Classification.ipynb     # Sanity check: BLIP classifier on Caltech-101
 ├── ExpansionNet_Attack.ipynb     # Adversarial attack on ExpansionNet
 ├── ExpansionNet_benchmark.ipynb  # Benchmarking ExpansionNet
 ├── ExpansionNet_confidence.ipynb # Confidence-based defense on ExpansionNet
-├── VIT_Classification.ipynb      # Sanity check: CLIP ViT classifier on Caltech-101
 ├── Plot_results.ipynb            # Visualization of evaluation metrics and model behavior
 ├── README.md
 ```
